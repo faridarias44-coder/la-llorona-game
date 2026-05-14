@@ -1,0 +1,54 @@
+# .gitignore - Unity
+
+# Directorio de Biblioteca
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Archivos de VS Code
+.vscode/
+*.code-workspace
+
+# Archivos de Visual Studio
+.vs/
+*.sln
+*.csproj
+*.user
+*.userprefs
+
+# Archivos de JetBrains
+.idea/
+*.iml
+
+# Archivos de OS
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.swp
+*.swo
+
+# Builds
+*.exe
+*.apk
+*.ipa
+
+# Archivos de caché
+*.cache
+*.meta~
+
+# Directorio Packages
+[Pp]ackages/
+
+# Directorio Assets/Streaming Assets
+/[Aa]ssets/[Ss]treaming[Aa]ssets/
+
+# Directorio de modelos grandes
+/[Aa]ssets/[Mm]odels/
+/[Aa]ssets/[Tt]extures/
+/[Aa]ssets/[Aa]udio/raw/
